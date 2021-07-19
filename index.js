@@ -172,6 +172,7 @@ function scoreboard(getInningScoreCb, inningCb, number) {
 console.log(scoreboard(getInningScore, inning, 9));
 
 //spagetti
+//meatballs
 
 
 /* 🛑🛑🛑🛑🛑 Please do not modify anything below this line 🛑🛑🛑🛑🛑 */
